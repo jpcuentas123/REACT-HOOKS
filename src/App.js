@@ -5,6 +5,7 @@ import UseStateCouter from './Components/UseStateCouter';
 import UseStateCounterTwo from './Components/UseStateCounterTwo';
 import UseStateCounterThree from './Components/UseStateCounterThree';
 import UserStateCounterFour from './Components/UserStateCounterFour';
+import UseEffect from './Components/UseEffect/UpdateStateClass';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <UseStateCouter/> */}
       {/* <UseStateCounterTwo/> */}
       {/* <UseStateCounterThree/> */}
-      <UserStateCounterFour/>
+      {/* <UserStateCounterFour/> */}
+      <UseEffect/>
     </div>
   );
 }

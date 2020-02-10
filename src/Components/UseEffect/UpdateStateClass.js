@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class UseEffect extends Component {
+export class UseEffectWithClass extends Component {
     constructor(props) {
         super(props)
         this.state = {
@@ -24,4 +24,4 @@ export class UseEffect extends Component {
     }
 }
 
-export default UseEffect
+export default UseEffectWithClass

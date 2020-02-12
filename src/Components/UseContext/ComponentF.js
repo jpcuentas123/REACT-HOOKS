@@ -14,7 +14,7 @@ function ComponentF() {
                                             <div>
                                                 <h3>ComponentF</h3>
                                             </div>
-                                            <h4>Welcom {users[0].name} across the channel {channel}</h4>
+                                            <h4>Welcom to ComponentF {users[0].name} across the channel {channel}</h4>
                                         </div>
                                     )
                                 }
